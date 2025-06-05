@@ -3,7 +3,7 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-- :school: I am a `Student` at [Universidad César Vallejo](https://www.ucv.edu.pe/) in Lima, Peru.
+- :school: I am a `Student` at [Universidad César Vallejo](https://www.ucv.edu.pe/) in Lima, Peru, currently in the 7th semester of my **Systems Engineering** degree.
 - :computer: I am a **Frontend Developer** currently learning everything related to **React** and **Frontend Technologies**.
 - :books: I'm actively learning **JavaScript**, **TypeScript**, **React**, and **Tailwind CSS**.
 - :globe_with_meridians: I speak **Advanced English**.
