@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Anthony Atiro <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2RiYmN3NDUyeXJuOXE1ZXIxaHF2a2h4djhtZDVhZmRwdTZmZm96ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lP8xu5t2DLGG045H8F/giphy.gif" width="35"></h1>
-## About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
