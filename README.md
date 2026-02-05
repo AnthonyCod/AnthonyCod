@@ -2,12 +2,12 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-- [cite_start]🚀 **Frontend Engineer** specializing in the React ecosystem (TypeScript, Zustand, Tailwind)[cite: 4].
-- [cite_start]🏢 Currently working as a **Founding Frontend Engineer** at Orderly, building scalable e-invoicing SaaS.
-- [cite_start]🏆 Winner of the **"Viaja Ya" International Coding Competition** in Cartagena, Colombia[cite: 26, 28].
-- [cite_start]🎓 Software Engineering student at **Universidad César Vallejo**[cite: 38, 44].
-- [cite_start]🌍 Bilingual: **Spanish (Native)** and **English (Advanced C1)**.
-- [cite_start]🛠️ Deeply interested in **Clean Code**, **Agile Methodologies**, and **Fullstack Development**[cite: 6, 20, 35].
+- 🚀 **FullStack Engineer** specializing in the React ecosystem (TypeScript, Zustand, Tailwind)[cite: 4].
+- 🏢 Currently working as a **Founding Frontend Engineer** at Orderly, building scalable e-invoicing SaaS.
+- 🏆 Winner of the **"Viaja Ya" International Coding Competition** in Cartagena, Colombia[cite: 26, 28].
+- 🎓 Software Engineering student at **Universidad César Vallejo**[cite: 38, 44].
+- 🌍 Bilingual: **Spanish (Native)** and **English (Advanced C1)**.
+- 🛠️ Deeply interested in **Clean Code**, **Agile Methodologies**, and **Fullstack Development**[cite: 6, 20, 35].
 
 ## My Skills
 
