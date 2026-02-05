@@ -2,38 +2,34 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-- :school: I am a `Student` at [Universidad César Vallejo](https://www.ucv.edu.pe/) in Lima, Peru.
-- :computer: I am a **Frontend Developer** currently learning everything related to **React** and **Frontend Technologies**.
-- :books: I'm actively learning **JavaScript**, **TypeScript**, **React**, and **Tailwind CSS**.
-- :globe_with_meridians: I speak **Advanced English**.
-- :thinking: I’m currently seeking a **Junior React Developer** position.
+- [cite_start]🚀 **Frontend Engineer** specializing in the React ecosystem (TypeScript, Zustand, Tailwind)[cite: 4].
+- [cite_start]🏢 Currently working as a **Founding Frontend Engineer** at Orderly, building scalable e-invoicing SaaS.
+- [cite_start]🏆 Winner of the **"Viaja Ya" International Coding Competition** in Cartagena, Colombia[cite: 26, 28].
+- [cite_start]🎓 Software Engineering student at **Universidad César Vallejo**[cite: 38, 44].
+- [cite_start]🌍 Bilingual: **Spanish (Native)** and **English (Advanced C1)**.
+- [cite_start]🛠️ Deeply interested in **Clean Code**, **Agile Methodologies**, and **Fullstack Development**[cite: 6, 20, 35].
 
 ## My Skills
 
-### Programming languages & Frontend Development
-<p align="center"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://reactjs.org/" target="_blank">
-    <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?style=plastic&logo=React&logoColor=black">
-  </a>
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-   </a>
-  &emsp;
-  <a href="https://www.typescriptlang.org/" target="_blank"> 
-     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white">
-   </a>
-  &emsp;
-  <a href="https://tailwindcss.com/" target="_blank"> 
-    <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=plastic&logo=tailwindcss&logoColor=white">
-  </a>
+### Frontend Development
+<p align="left">
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=React&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white">
+  <img src="https://img.shields.io/badge/Zustand-orange?style=for-the-badge">
+</p>
+
+### Backend & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+</p>
+
+## Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Anthony's GitHub stats" />
 </p>
